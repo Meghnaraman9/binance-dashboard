@@ -1,0 +1,24 @@
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Local application state
+binance_dashboard_state.json
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
